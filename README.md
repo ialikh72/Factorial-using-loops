@@ -15,16 +15,3 @@ Example:
 
 5! = 5 × 4 × 3 × 2 × 1 = 120
 
-🛠️ How the Program Works
-
-The program asks the user to enter a number.
-
-It reads the input from the console.
-
-A while loop calculates the factorial.
-
-The result is displayed on the screen.
-
-▶️ How to Run the Program
-Step 1: Open Terminal or Command Prompt
-Step 2: Compile the program.
